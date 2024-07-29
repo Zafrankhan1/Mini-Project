@@ -41,4 +41,4 @@ if another_order == "Yes":
 else:
     print('We are sorry this  is not present now')        
 
-print(f"Sir your total bill is Rs {total_order}")
+print(f"Sir your total bill is Rs:j{total_order}")
